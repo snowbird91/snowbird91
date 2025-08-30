@@ -30,7 +30,7 @@
 <!-- subtle divider -->
 <p align="center">• • •</p>
 
-## 👨‍💻 About Me  
+## 👨‍💻 about me  
 ```yaml
 name: Andrew Liu
 role: Student | Developer
