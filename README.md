@@ -9,7 +9,7 @@
 <!-- ====== Quick intro ====== -->
 <h3 align="center">student • developer • maker</h3>
 <p align="center">
-  i build, explore and learn things i’m curious about. currently learning <b>echo state networks</b> and exploring <b>large language models</b>.
+  i build, explore and learn things i’m curious about. currently learning about<b>reservoir computing</b> and exploring <b>large language models</b>.
 </p>
 
 <!-- ====== Social / contact (clean badges) ====== -->
@@ -29,3 +29,10 @@
 
 <!-- subtle divider -->
 <p align="center">• • •</p>
+
+## 👨‍💻 About Me  
+name: Andrew Liu
+role: Student | Developer
+currently_learning: ["machine learning", "llms", "reservoir computing"]
+hobbies: ["piano", "traveling", "building projects", "biking"]
+fun_fact: "i once performed at carnegie hall 🎹"
