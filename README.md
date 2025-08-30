@@ -37,6 +37,7 @@ role: student | developer
 currently_learning: ["machine learning", "llms", "reservoir computing"]
 hobbies: ["piano", "traveling", "building projects", "biking"]
 fun_fact: "i once performed at carnegie hall 🎹"
+```
 
 ## 🛠️ Tools & Tech  
 
