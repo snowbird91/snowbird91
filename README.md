@@ -9,7 +9,7 @@
 <!-- ====== Quick intro ====== -->
 <h3 align="center">student • developer • maker</h3>
 <p align="center">
-  i build, explore and learn things i’m curious about. currently learning about<b>reservoir computing</b> and exploring <b>large language models</b>.
+  i build, explore and learn things i’m curious about. currently learning about <b>reservoir computing</b> and exploring <b>large language models</b>.
 </p>
 
 <!-- ====== Social / contact (clean badges) ====== -->
