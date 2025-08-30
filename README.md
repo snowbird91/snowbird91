@@ -2,14 +2,14 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hey%20there!%20I'm%20Andrew%20👋&fontAlign=50&animation=fadeIn&color=gradient&section=header"
-    alt="Hey there! I'm Andrew"
+    alt="hey there!"
   />
 </p>
 
 <!-- ====== Quick intro ====== -->
 <h3 align="center">student • developer • maker</h3>
 <p align="center">
-  i build things i’m curious about. currently learning <b>…</b> and exploring <b>…</b>.
+  i build, explore and learn things i’m curious about. currently learning <b>echo state networks</b> and exploring <b>large language models</b>.
 </p>
 
 <!-- ====== Social / contact (clean badges) ====== -->
