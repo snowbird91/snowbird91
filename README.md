@@ -39,7 +39,7 @@ hobbies: ["piano", "traveling", "building projects", "biking"]
 fun_fact: "i once performed at carnegie hall 🎹"
 ```
 
-## 🛠️ Tools & Tech  
+## 🛠️ tools & tech i use  
 
 <p align="left">
   <!-- languages -->
