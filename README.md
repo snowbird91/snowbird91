@@ -1,7 +1,7 @@
 <!-- ====== Header (animated) ====== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hey%20there!%20I'm%20Andrew%20👋&fontAlign=50&animation=fadeIn&color=gradient&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&text=hey%20there!%20👋&fontAlign=50&animation=fadeIn&color=gradient&section=header"
     alt="hey there!"
   />
 </p>
