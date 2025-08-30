@@ -31,6 +31,7 @@
 <p align="center">• • •</p>
 
 ## 👨‍💻 About Me  
+```yaml
 name: Andrew Liu
 role: Student | Developer
 currently_learning: ["machine learning", "llms", "reservoir computing"]
