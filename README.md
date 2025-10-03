@@ -65,4 +65,4 @@ fun_fact: "i once performed at carnegie hall 🎹"
 
 ## ⏱️ Coding Activity  
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=28a91cbf-64b6-4f67-b05e-f617ee68ef10&theme=tokyonight&layout=compact)
