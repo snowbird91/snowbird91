@@ -41,7 +41,7 @@ fun_fact: "i once performed at carnegie hall 🎹"
 
 ## 🛠️ tools & tech i use  
 
-<p align="left">
+<p align="center">
   <!-- languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
