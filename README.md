@@ -63,7 +63,7 @@ fun_fact: "i once performed at carnegie hall 🎹"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowbird91&theme=tokyonight&cache_seconds=21600" height="180"/>
 </p>
 
-## ⏱️ Coding Activity  
+## ⏱️ my coding activity  
 
 <!-- WakaTime stats -->
 <p align="center">
