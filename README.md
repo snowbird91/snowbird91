@@ -36,7 +36,7 @@ name: Andrew Liu
 role: student | developer
 currently_learning: ["machine learning", "llms", "reservoir computing"]
 hobbies: ["piano", "traveling", "building projects", "biking"]
-fun_fact: "i once performed at carnegie hall 🎹"
+fun_fact: "i have performed at carnegie hall twice 🎹"
 ```
 
 ## 🛠️ tools & tech i use  
