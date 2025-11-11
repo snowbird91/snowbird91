@@ -65,8 +65,6 @@ fun_fact: "i have performed at carnegie hall twice 🎹"
 
 ## ⏱️ my coding activity  
 
-<!-- WakaTime stats -->
-<p align="center">
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
