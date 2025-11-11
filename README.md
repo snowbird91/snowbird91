@@ -67,5 +67,6 @@ fun_fact: "i have performed at carnegie hall twice 🎹"
 
 <!-- WakaTime stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowbird91&theme=tokyonight&layout=compact" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
