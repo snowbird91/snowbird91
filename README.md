@@ -60,7 +60,6 @@ fun_fact: "i have performed at carnegie hall twice 🎹"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snowbird91&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=21600" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowbird91&theme=tokyonight&cache_seconds=21600" height="180"/>
 </p>
 
 ## ⏱️ my coding activity  
