@@ -56,12 +56,6 @@ fun_fact: "i have performed at carnegie hall twice 🎹"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
-## 📊 my github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snowbird91&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=21600" height="180"/>
-</p>
-
 ## ⏱️ my coding activity  
 
 <!--START_SECTION:waka-->
