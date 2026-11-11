@@ -1465,7 +1465,6 @@
 <text x="349.55" y="354.3" fill="#777777" font-size="8.8" font-weight="700">*</text>
 <text x="355.0" y="354.3" fill="#777777" font-size="8.8" font-weight="700">*</text>
 </g>
-<!-- To edit the profile text, change profile.json and run build_profile.py. -->
 <text id="profile-handle" x="430" y="61" fill="#242424" font-size="22" font-weight="700">snowbird91@github</text>
 <text id="profile-tagline" x="430" y="87" fill="#666666" font-size="14" font-weight="400">student / developer / maker</text>
 <line x1="430" y1="106" x2="956" y2="106" stroke="#d6d6d6"/>
