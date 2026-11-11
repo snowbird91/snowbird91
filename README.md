@@ -4,4 +4,6 @@
   <img src="assets/profile-light.svg" alt="Andrew Liu: student / developer / maker. Python / C++ / C#. Focus: ML / LLMs / reservoir computing. Offline: video games / travelling / biking. ASCII fishing penguin." width="1000">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/andrew-liu-22657133a) | [Email](mailto:andrewliu3477@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrew-liu-22657133a">LinkedIn</a> | <a href="mailto:andrewliu3477@gmail.com">Email</a>
+</p>
